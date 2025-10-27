@@ -35,10 +35,3 @@ UTS_ComputerVision/
 └── README.md
 ```
 
-## Cara Menjalankan
-1. Pastikan Python dan OpenCV (cv2) terinstall: `pip install opencv-python numpy`
-2. Jalankan: `python3 karakter.py`
-3. Hasil gambar akan tersimpan di folder `output/`
-
-## Catatan
-File ini dibuat otomatis dan siap diupload ke GitHub. Jika komputer kamu tidak memiliki OpenCV, tetap upload repository ini — dosen biasanya mengecek kode dan struktur.
